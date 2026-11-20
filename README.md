@@ -7,6 +7,8 @@ Este proyecto realiza peticiones HTTP reales con `package:http` hacia los endpoi
 ### Capturas de las 3 Pruebas
 
 * **Pruebas:
-  <img width="702" height="272" alt="image" src="https://github.com/user-attachments/assets/0a2de6bc-2e83-404a-a543-f7a1bcfe06e9" />
+
+  <img width="702" height="272" alt="image" src="https://github.com/user-attachments/assets/a316159c-9776-451d-969a-c55d1d92e4a5" />
+
 
  
